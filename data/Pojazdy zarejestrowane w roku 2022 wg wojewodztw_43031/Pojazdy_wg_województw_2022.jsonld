@@ -1,0 +1,471 @@
+{
+  "@context": {
+    "csvw": "http://www.w3.org/ns/csvw#"
+  },
+  "@graph": [
+    {
+      "@id": "_:N3fa62b67f56f4b4496fd211610bf08c8",
+      "@type": "csvw:TableGroup",
+      "csvw:table": {
+        "@id": "_:Naff336ee3ea949e695027877a6b9fabd"
+      }
+    },
+    {
+      "@id": "_:Naff336ee3ea949e695027877a6b9fabd",
+      "@type": "csvw:Table",
+      "csvw:row": [
+        {
+          "@id": "_:Nc21f467c913b4953abe9858cf6ece201"
+        },
+        {
+          "@id": "_:N9b1ec91a99294a5088b26d7efa028c07"
+        },
+        {
+          "@id": "_:N79a58677cc9b4e83b72ee80a44051fde"
+        },
+        {
+          "@id": "_:N8d3bab2354fc4426a2decceb30236950"
+        },
+        {
+          "@id": "_:Nc4114ce42dbb479fa1b76047b2bf58fa"
+        },
+        {
+          "@id": "_:Na4eab8a71ad145ecbf845026c741665c"
+        },
+        {
+          "@id": "_:N6d9c6e45ba55409dac60a0cb10c1a1df"
+        },
+        {
+          "@id": "_:Neffa76edd1364cecb22cc335107ae1b9"
+        },
+        {
+          "@id": "_:Nad6b5f50a1c54d0bbe9e8eb5369fbee5"
+        },
+        {
+          "@id": "_:N26d8bb15729e49cead53f1a3ce941087"
+        },
+        {
+          "@id": "_:N2bd8cbf153534dbba4a72fec744ae2ce"
+        },
+        {
+          "@id": "_:N24b3082d0d6d4b9d96fa20488ac3ca33"
+        },
+        {
+          "@id": "_:Ncd292c9f44b14ab58c5312bfd40ee7e5"
+        },
+        {
+          "@id": "_:N423cda2ed290432ab3312ed4ea334605"
+        },
+        {
+          "@id": "_:N2725609874b9405faf5bfc865bdedb1b"
+        },
+        {
+          "@id": "_:N7a3d5d7c895e4edd8393a632bb8a8d88"
+        }
+      ],
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx"
+      }
+    },
+    {
+      "@id": "_:Nc21f467c913b4953abe9858cf6ece201",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:Na91d7f1f5f734fb2a97eca1a5b7eff96"
+      },
+      "csvw:rownum": 1,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=2"
+      }
+    },
+    {
+      "@id": "_:Na91d7f1f5f734fb2a97eca1a5b7eff96",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "DOLNOŚLĄSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "10965",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "10228",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "9591",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "9320",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "10694",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "10728",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "9170",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "9305",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "8539",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "9689"
+    },
+    {
+      "@id": "_:N9b1ec91a99294a5088b26d7efa028c07",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N27118126e95c4fcfbbd9101067ad188c"
+      },
+      "csvw:rownum": 2,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=3"
+      }
+    },
+    {
+      "@id": "_:N27118126e95c4fcfbbd9101067ad188c",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "KUJAWSKO-POMORSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "6334",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "6399",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "6135",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "6054",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "6565",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "7303",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "5634",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "5673",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "5232",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "6006"
+    },
+    {
+      "@id": "_:N79a58677cc9b4e83b72ee80a44051fde",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N5c638f3eae80450aa41ecd48f65112e9"
+      },
+      "csvw:rownum": 3,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=4"
+      }
+    },
+    {
+      "@id": "_:N5c638f3eae80450aa41ecd48f65112e9",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "LUBELSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "7112",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "6766",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "6734",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "6105",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "7227",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "7447",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "6331",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "6831",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "6007",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "6933"
+    },
+    {
+      "@id": "_:N8d3bab2354fc4426a2decceb30236950",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N2cf83ff830414472b6843e0711d24c4b"
+      },
+      "csvw:rownum": 4,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=5"
+      }
+    },
+    {
+      "@id": "_:N2cf83ff830414472b6843e0711d24c4b",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "LUBUSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "4073",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "3863",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "3849",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "3699",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "4100",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "4205",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "3660",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "3810",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "3464",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "3717"
+    },
+    {
+      "@id": "_:Nc4114ce42dbb479fa1b76047b2bf58fa",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N99a79884e09a4fd586503631228dffc1"
+      },
+      "csvw:rownum": 5,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=6"
+      }
+    },
+    {
+      "@id": "_:N99a79884e09a4fd586503631228dffc1",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "ŁÓDZKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "8461",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "8198",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "7954",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "7538",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "8568",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "8808",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "7155",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "7128",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "7156",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "7893"
+    },
+    {
+      "@id": "_:Na4eab8a71ad145ecbf845026c741665c",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N8f593bd837d142539489246a0224070d"
+      },
+      "csvw:rownum": 6,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=7"
+      }
+    },
+    {
+      "@id": "_:N8f593bd837d142539489246a0224070d",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "MAŁOPOLSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "13162",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "12193",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "11445",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "11114",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "12352",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "13313",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "10320",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "10824",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "9780",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "11719"
+    },
+    {
+      "@id": "_:N6d9c6e45ba55409dac60a0cb10c1a1df",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N6108e5c27e93455b86a82719ef09c01b"
+      },
+      "csvw:rownum": 7,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=8"
+      }
+    },
+    {
+      "@id": "_:N6108e5c27e93455b86a82719ef09c01b",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "MAZOWIECKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "30427",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "28099",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "26746",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "25219",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "29620",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "30734",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "26121",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "26313",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "22542",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "28344"
+    },
+    {
+      "@id": "_:Neffa76edd1364cecb22cc335107ae1b9",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N0e796eadcdea4629adf3e800d5b10f92"
+      },
+      "csvw:rownum": 8,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=9"
+      }
+    },
+    {
+      "@id": "_:N0e796eadcdea4629adf3e800d5b10f92",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "OPOLSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "3269",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "2997",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "2931",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "2694",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "3133",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "3272",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "2721",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "2808",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "2480",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "2818"
+    },
+    {
+      "@id": "_:Nad6b5f50a1c54d0bbe9e8eb5369fbee5",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:Nf07e7365bc6749a997a2b0f4dd49676c"
+      },
+      "csvw:rownum": 9,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=10"
+      }
+    },
+    {
+      "@id": "_:Nf07e7365bc6749a997a2b0f4dd49676c",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "PODKARPACKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "7106",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "6861",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "6940",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "6052",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "7299",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "7333",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "6189",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "6709",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "5514",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "6591"
+    },
+    {
+      "@id": "_:N26d8bb15729e49cead53f1a3ce941087",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N3d380fcb729a405198f677c30448a4a8"
+      },
+      "csvw:rownum": 10,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=11"
+      }
+    },
+    {
+      "@id": "_:N3d380fcb729a405198f677c30448a4a8",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "PODLASKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "3951",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "3931",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "3971",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "3673",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "4098",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "4289",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "3412",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "3652",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "3181",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "3648"
+    },
+    {
+      "@id": "_:N2bd8cbf153534dbba4a72fec744ae2ce",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:Nc7a6136deb3a4fd7ac7b685c22f7d5e4"
+      },
+      "csvw:rownum": 11,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=12"
+      }
+    },
+    {
+      "@id": "_:Nc7a6136deb3a4fd7ac7b685c22f7d5e4",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "POMORSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "8444",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "8126",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "7864",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "6980",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "8322",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "8917",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "7075",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "7590",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "6619",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "7489"
+    },
+    {
+      "@id": "_:N24b3082d0d6d4b9d96fa20488ac3ca33",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:Nb54767b505dd48f69a1ae32d200fb71d"
+      },
+      "csvw:rownum": 12,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=13"
+      }
+    },
+    {
+      "@id": "_:Nb54767b505dd48f69a1ae32d200fb71d",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "ŚLĄSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "14530",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "13555",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "12898",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "12590",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "14399",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "15189",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "12033",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "12566",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "11203",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "13031"
+    },
+    {
+      "@id": "_:Ncd292c9f44b14ab58c5312bfd40ee7e5",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N08544db256fe45e787ead6150ddd9216"
+      },
+      "csvw:rownum": 13,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=14"
+      }
+    },
+    {
+      "@id": "_:N08544db256fe45e787ead6150ddd9216",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "ŚWIĘTOKRZYSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "4209",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "3982",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "4086",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "3831",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "4328",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "4367",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "3614",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "4162",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "3623",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "4136"
+    },
+    {
+      "@id": "_:N423cda2ed290432ab3312ed4ea334605",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:Nd51d5444d51a45cb9dbb3a92113fd498"
+      },
+      "csvw:rownum": 14,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=15"
+      }
+    },
+    {
+      "@id": "_:Nd51d5444d51a45cb9dbb3a92113fd498",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "WARMIŃSKO-MAZURSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "4022",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "4284",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "3806",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "3670",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "4092",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "4354",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "3432",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "3792",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "3309",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "3842"
+    },
+    {
+      "@id": "_:N2725609874b9405faf5bfc865bdedb1b",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N6f9c1dfacd6f45e4b821225024895b84"
+      },
+      "csvw:rownum": 15,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=16"
+      }
+    },
+    {
+      "@id": "_:N6f9c1dfacd6f45e4b821225024895b84",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "WIELKOPOLSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "17562",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "17798",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "15795",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "16281",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "17973",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "18988",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "15609",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "15437",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "14035",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "16295"
+    },
+    {
+      "@id": "_:N7a3d5d7c895e4edd8393a632bb8a8d88",
+      "@type": "csvw:Row",
+      "csvw:describes": {
+        "@id": "_:N7927c957f79d4fb1a49c566635e9f369"
+      },
+      "csvw:rownum": 16,
+      "csvw:url": {
+        "@id": "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#row=17"
+      }
+    },
+    {
+      "@id": "_:N7927c957f79d4fb1a49c566635e9f369",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#WOJEW%C3%93DZTWO": "ZACHODNIOPOMORSKIE",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#czerwiec": "5246",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#kwiecie%C5%84": "4916",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#lipiec": "4770",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#luty": "4272",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#maj": "5118",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#marzec": "5379",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#pa%C5%BAdziernik": "4403",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#sierpie%C5%84": "4651",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#stycze%C5%84": "4101",
+      "https://api.dane.gov.pl/media/resources/20221130/Pojazdy_wg_wojew%C3%B3dztw_2022.xlsx#wrzesie%C5%84": "4855"
+    }
+  ]
+}
